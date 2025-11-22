@@ -1,9 +1,12 @@
-
+<p align="center">
+    <a href="https://github.com/anus4Q/Renderps4/blob/cfa0263ed168cc808e36b9703874ea821d05ad2f/logo.png">
+        <img height="210px" src="https://github.com/anus4Q/Renderps4/blob/cfa0263ed168cc808e36b9703874ea821d05ad2f/logo.png" />
+    </a>
+</p>
 
 # RenderPS4 — PS4 Emulator for Android
 
-renderps4 is a "proof of concept" emulator. 
-
+Renderps4 is an early PlayStation 4 emulator for Android written in C++ / java
 supporting games pkg formats
 
 ## Key Features
@@ -36,6 +39,7 @@ Open an Issue before submitting major pull requests.
 RenderPS4 is developed during my personal free time ... Support helps continue development and research.
 
 - **$1,000** Release additional research components as open source
+
 ## DISCLAIMER !!
 renderps4 project not affiliated with SONY  It is intended for educational purposes and We are porting.  
 
